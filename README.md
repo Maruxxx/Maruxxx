@@ -2,7 +2,7 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently available to work remotely :wink:
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Node/React
+- 💬 &nbsp;Ask me about anything related to Javascript
 - 📫 &nbsp;Email me here : marux.dev@gmail.com
 
 
